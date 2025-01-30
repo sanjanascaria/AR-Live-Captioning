@@ -1,3 +1,2 @@
 # AR-Live-Captioning
 
-lalala
